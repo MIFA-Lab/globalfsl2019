@@ -1,10 +1,10 @@
 ## Few-Shot Learning with Global Class Representations
-Created by <a href="https://tiangeluo.github.io/" target="_blank">Tiange Luo*</a>, <a href="" target="_black">Aoxue Li*</a>, <a href="http://personal.ee.surrey.ac.uk/Personal/T.Xiang/index.html" target="_blank">Tao Xiang</a>, <a href="" target="_blank">Weiran Huang</a> and <a href="http://www.liweiwang-pku.com" target="_blank">Liwei Wang</a>
+Created by <a href="https://tiangeluo.github.io/" target="_blank">Tiange Luo*</a>, <a href="" target="_black">Aoxue Li*</a>, <a href="http://personal.ee.surrey.ac.uk/Personal/T.Xiang/index.html" target="_blank">Tao Xiang</a>, <a href="https://www.weiranhuang.com" target="_blank">Weiran Huang</a> and <a href="http://www.liweiwang-pku.com" target="_blank">Liwei Wang</a>
 
 ![Overview](https://github.com/tiangeluo/fsl-global/blob/master/material/overview.png)
 
 ## About this repository
-This is the repository for our ICCV 2019 [paper](https://arxiv.org/abs/1908.05257). In this paper, we propose to tackle the challenging few-shot learning (FSL) problem by learning global class representations for each class via involving both base and novel classes training samples from the beginning. For more details of our framework, please refer to our [paper](https://arxiv.org/abs/1908.05257) or <a href="https://tiangeluo.github.io/GlobalRepresentation.html" target="_blank">project website</a>.
+This is the repository for our ICCV 2019 [paper](https://arxiv.org/abs/1908.05257). In this paper, we propose to tackle the challenging few-shot learning (FSL) problem by learning global class representations for each class via involving both base and novel classes training samples from the beginning. For more details of our framework, please refer to our [paper](https://arxiv.org/abs/1908.05257) or <a href="https://zhuanlan.zhihu.com/p/78743300" target="_blank">知乎</a>.
 
 Due to company and patent issues, the author only release the codes of the proposed module. If you want to run those codes, you have to implement and train the hallucinator [Low-shot learning from imaginary data].
 
@@ -25,9 +25,10 @@ In section 4.2.1, follow the class splits as the original miniImageNet, we use t
 ## Citation
 If you find our work useful in your research, please consider citing:
 
-        @article{luo2019few,
-          title={Few-Shot Learning with Global Class Representations},
-          author={Luo, Tiange and Li, Aoxue and Xiang, Tao and Huang, Weiran and Wang, Liwei},
-          journal={arXiv preprint arXiv:1908.05257},
-          year={2019}
+        @InProceedings{Li_2019_ICCV,
+            author = {Li, Aoxue and Luo, Tiange and Xiang, Tao and Huang, Weiran and Wang, Liwei},
+            title = {Few-Shot Learning With Global Class Representations},
+            booktitle = {The IEEE International Conference on Computer Vision (ICCV)},
+            month = {October},
+            year = {2019}
         }
