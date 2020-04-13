@@ -17,7 +17,7 @@ In section 4.2.1, follow the class splits as the original miniImageNet, we use t
 
 - convnet.py: the network for extracting feature and registrating.
 - train_100way.py: train the model on the 100-way setting.
-- test_100way.py: test in generalized FSL setting descrebed in section 4.2.1.
+- test_100way.py: test in generalized FSL setting described in section 4.2.1.
 - samplers.py: code for sampling data in a 5-way-5-shot manner.
 - csv: dataset splits.
 
