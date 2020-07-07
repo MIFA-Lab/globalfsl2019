@@ -4,7 +4,7 @@ Created by <a href="https://tiangeluo.github.io/" target="_blank">Tiange Luo*</a
 ![Overview](https://github.com/huang-paper-code/fsl-global/blob/master/material/overview.png)
 
 ## About this repository
-This is the repository for our ICCV 2019 [paper](https://www.weiranhuang.com/publications/GlobalRepresentation-ICCV19.pdf). In this paper, we propose to tackle the challenging few-shot learning (FSL) problem by learning global class representations for each class via involving both base and novel classes training samples from the beginning. For more details of our framework, please refer to our [paper](https://www.weiranhuang.com/publications/GlobalRepresentation-ICCV19.pdf) or <a href="https://zhuanlan.zhihu.com/p/78743300" target="_blank">知乎</a>.
+This is the repository for our ICCV 2019 [paper](https://www.weiranhuang.com/publications/globalfsl2019.html). In this paper, we propose to tackle the challenging few-shot learning (FSL) problem by learning global class representations for each class via involving both base and novel classes training samples from the beginning. For more details of our framework, please refer to our [paper](https://www.weiranhuang.com/publications/globalfsl2019.html) or <a href="https://zhuanlan.zhihu.com/p/78743300" target="_blank">知乎</a>.
 
 Due to company and patent issues, the authors only release the codes of the proposed module. If you want to run those codes, you need to implement and train the hallucinator [Low-shot learning from imaginary data].
 
